@@ -1,0 +1,21 @@
+﻿Build started 20/03/2019 3:06:07 CH.
+     1>Project "C:\Users\khanhpq\Documents\Visual Studio 2010\Projects\CountedPointer\CountedPointer\CountedPointer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CountedPointer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\khanhpq\Documents\Visual Studio 2010\Projects\CountedPointer\Debug\CountedPointer.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CountedPointer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\khanhpq\Documents\Visual Studio 2010\Projects\CountedPointer\Debug\CountedPointer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\khanhpq\Documents\Visual Studio 2010\Projects\CountedPointer\Debug\CountedPointer.lib" /MACHINE:X86 Debug\main.obj
+         LINK : C:\Users\khanhpq\Documents\Visual Studio 2010\Projects\CountedPointer\Debug\CountedPointer.exe not found or not built by the last incremental link; performing full link
+         CountedPointer.vcxproj -> C:\Users\khanhpq\Documents\Visual Studio 2010\Projects\CountedPointer\Debug\CountedPointer.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\khanhpq\Documents\Visual Studio 2010\Projects\CountedPointer\Debug\CountedPointer.exe;#1" /manifest Debug\CountedPointer.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\CountedPointer.unsuccessfulbuild".
+         Touching "Debug\CountedPointer.lastbuildstate".
+     1>Done Building Project "C:\Users\khanhpq\Documents\Visual Studio 2010\Projects\CountedPointer\CountedPointer\CountedPointer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.88
